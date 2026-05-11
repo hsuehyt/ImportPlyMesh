@@ -1,2 +1,0 @@
-MayaMeshTools.mll	Any stable folder or C:\Program Files\Autodesk\Maya2026\bin\plug-ins
-scripts folder contents	Documents\maya\2026\scripts
